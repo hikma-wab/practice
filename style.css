@@ -5,3 +5,7 @@ body{
     background-position: center;
     
 }
+p{
+    color: blue;
+    font-size: 5px;
+}
